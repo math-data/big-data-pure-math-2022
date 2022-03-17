@@ -4,7 +4,7 @@ all:
 	make upload
   
 html:
-	cd src/ && sage /usr/bin/php2html . ../bdpm2022/ -o
+	cd src/ && sage /usr/bin/php2html . ../docs/ -o
 
 upload:
 	git add .
