@@ -4,8 +4,9 @@ all:
 	make upload
   
 html:
-	cd bdpm2022/ && sage /usr/bin/php2html . ../bdpm2022_html/ -o
+	cd src/ && sage /usr/bin/php2html . ../ -o
 
 upload:
-	scp bdpm2022_html/*.* bu:/other/www/people/matschke/BigDataPureMath2022/
-  
+	git add .
+	git commit
+	git push
