@@ -10,3 +10,7 @@ upload:
 	git add .
 	git commit
 	git push
+
+runlocal:
+	cd src/ && php -S localhost:8000
+
