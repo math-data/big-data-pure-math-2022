@@ -137,6 +137,7 @@ The speakers include
 <li><a href="https://www2.mathematik.tu-darmstadt.de/~paffenholz/">Andreas Paffenholz</a> (<a href="https://db.polymake.org/">polyDB</a>)</li>
 <li><a href="http://plouffe.fr/Simon%20Plouffe.htm">Simon Plouffe</a> (<a href="http://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html">Inverse Sybolic Calculator</a>)</li>
 <li><a href="https://math.mit.edu/~roed/">David Roe</a> (<a href="https://www.lmfdb.org/">LMFDB</a>)</li>
+<li><a href="https://dmg.tuwien.ac.at/rubey/">Martin Rubey</a> (<a href="https://www.findstat.org/">FindStat</a>)</li>
 <li><a href="http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Urs+Schreiber">Urs Schreiber</a> (<a href="https://ncatlab.org/">nLab</a>)</li> 
 <li><a href="https://wstein.org/">William A. Stein</a> (<a href="https://cocalc.com/">CoCalc</a>, <a href="https://www.sagemath.org/">SageMath</a>, <a href="https://wstein.org/Tables/">tables</a>)</li>
 <li><a href="https://math.mit.edu/~drew/">Andrew V. Sutherland</a> (<a href="https://www.lmfdb.org/">LMFDB</a>, cloud computing)</li>
