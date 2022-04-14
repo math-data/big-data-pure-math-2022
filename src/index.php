@@ -26,6 +26,7 @@
     ["Characteristic Polynomial Database","http://www.bohemianmatrices.com/cpdb/"],
     ["Code Tables","http://codetables.de/"],
     ["Database of Ring Theory","https://ringtheory.herokuapp.com/"],
+    ["ISGCI","https://www.graphclasses.org/"],
     ["MathDataHub","https://kwarc.info/projects/mdh/"],
     ["nLab","https://ncatlab.org/"],
     ["Wolfram MathWorld","https://mathworld.wolfram.com/"],
