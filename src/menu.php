@@ -1,7 +1,7 @@
 <a href="index.php">Home</a> &middot;
 <a href="schedule.php">Schedule</a> &middot;
 <a href="abstracts.php">Abstracts</a> &middot;
-<!--<a href="participants.php">Participants</a> &middot;-->
+<a href="participants.php">Participants</a> &middot;
 <a href="registration.php">Registration</a> 
 <!--<br>
 <a href="poster.php">Poster</a> &middot;
