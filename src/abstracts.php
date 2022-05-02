@@ -12,6 +12,19 @@
 <p>
 
 
+<div class="talk_author"><a name="AB"></a>
+Alex J. Best
+</div>
+
+<div class="talk_title">
+Mathematical results as structured data
+</div>
+
+
+
+
+
+
 <div class="talk_author"><a name="KB"></a>
 Kevin M. Buzzard
 </div>
