@@ -107,6 +107,58 @@ discuss some questions raised by the ongoing development.
 
 
 
+<div class="talk_author"><a name="US"></a>
+Urs Schreiber
+</div>
+
+<div class="talk_title">
+The nLab project &ndash; past and possible future
+</div>
+
+In 1750, Diderot wrote: "As long as the centuries continue to unfold,
+the number of books will grow continually, and one can predict that a
+time will come when it will be almost as difficult to learn anything
+from books as from the direct study of the whole universe. It will be
+almost as convenient to search for some bit of truth concealed in
+nature as it will be to find it hidden away in an immense multitude of
+bound volumes. When that time comes, a project, until then neglected
+because the need for it was not felt, will have to be undertaken."
+
+<p>
+
+The <a href="http://ncatlab.org/">nLab</a> was a wiki project which I had started in 2008, concerned
+with creating an encompassing body of research-level hypertext in the
+mathematical sciences, incrementally written by practitioners who
+would use it like a joint lab-book to note down and discuss their
+daily insights, often referencing, contextualizing and polishing up
+existing material, sometimes including brand new results and proofs,
+as it occurred to and benefitted them in their daily work. Rigorous
+cross-linking of keywords served to evade the deadlock of
+hyper-specialization that Diderot already worried about, and a latent
+backdrop of (higher) category theory helped to intellectually organize
+and to relate the large scope of topics of modern mathematics and
+mathematical physics which the diversely interested nLab authors cared
+about.
+
+<p>
+
+To some extent this worked well, though over the years certain
+problems immanent in the original conception grew more severe. With
+the experience gained in the 13+ years that the project has lasted,
+the unresolved collapse of its software installation in Dec. 2021
+might be the crisis that bears the chance of starting afresh with a
+similar but better wiki project.
+
+<p>
+
+Slides for the talk will become available here:
+<a href="http://ncatlab.org/schreiber/show/What+is...+the+nLab">ncatlab.org/schreiber/show/What+is...+the+nLab</a>.
+
+
+
+
+
+
 <div class="talk_author"><a name="WS"></a>
 William Stein
 </div>
