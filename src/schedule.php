@@ -73,18 +73,18 @@ sup.gray {
 
 <table>
 <?php
-  entry('9:50','10:00<sup class="gray">AM</sup>','Opening','text');
-  entry('10:00','10:20<sup class="white">AM</sup>','Simon Plouffe','min20','abstracts.php#SP','TBA');
-  entry('10:30','10:50<sup class="white">AM</sup>','Alexander M Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
-  entry('11:00','11:30<sup class="white">AM</sup>','Coffee','text');
-  entry('11:30','11:50<sup class="white">AM</sup>','Urs Schreiber','min20','abstracts.php#US','The nLab project &ndash; past and possible future');
-  entry('12:00','12:20<sup class="gray">PM</sup>','Fredrik Johansson','min20','abstracts.php#FJ','Fungrim: a semantic library of mathematical functions');
-  entry('12:30',' 1:30<sup class="white">PM</sup>','Lunch','text');
-  entry(' 1:30',' 1:50<sup class="white">PM</sup>','Kevin M. Buzzard','min20','abstracts.php#KB','mathlib: a database of mathematical proofs');
-  entry(' 2:00',' 2:20<sup class="white">PM</sup>','Alex J. Best','min20','abstracts.php#AB','Mathematical results as structured data');
-  entry(' 2:30',' 3:00<sup class="white">PM</sup>','Coffee','text');
-  entry(' 3:00',' 3:20<sup class="white">PM</sup>','William Stein','min20','abstracts.php#WS','Ways to Share Mathematical Computations and Data using CoCalc');
-  entry(' 3:30',' 4:00<sup class="white">PM</sup>','Open discussion','text');
+  entry('<sup class="gray">AM</sup>&nbsp;&nbsp;&nbsp;&nbsp;9:50','10:00','Opening','text');
+  entry('10:00','10:20','Simon Plouffe','min20','abstracts.php#SP','TBA');
+  entry('10:30','10:50','Alexander M Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
+  entry('11:00','11:30','Coffee','text');
+  entry('11:30','11:50','Urs Schreiber','min20','abstracts.php#US','The nLab project &ndash; past and possible future');
+  entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Fredrik Johansson','min20','abstracts.php#FJ','Fungrim: a semantic library of mathematical functions');
+  entry('12:30',' 1:30','Lunch','text');
+  entry(' 1:30',' 1:50','Kevin M. Buzzard','min20','abstracts.php#KB','mathlib: a database of mathematical proofs');
+  entry(' 2:00',' 2:20','Alex J. Best','min20','abstracts.php#AB','Mathematical results as structured data');
+  entry(' 2:30',' 3:00','Coffee','text');
+  entry(' 3:00',' 3:20','William Stein','min20','abstracts.php#WS','Ways to Share Mathematical Computations and Data using CoCalc');
+  entry(' 3:30',' 4:00','Open discussion','text');
 ?>
 </table>
 
@@ -100,17 +100,17 @@ Sunday, May 22
 
 <table>
 <?php
-  entry('10:00','10:20<sup class="gray">AM</sup>','Jan Goedgebeur','min20','abstracts.php#JG','House of Graphs: a database of interesting graphs');
-  entry('10:30','10:50<sup class="white">AM</sup>','Hadrien Mélot','min20','abstracts.php#HM','TBA');
-  entry('11:00','11:30<sup class="white">AM</sup>','Coffee','text');
-  entry('11:30','11:50<sup class="white">AM</sup>','Martin Rubey','min20','abstracts.php#MR','FindStat');
-  entry('12:00','12:20<sup class="gray">PM</sup>','Andreas Paffenholz','min20','abstracts.php#','polyDB: A database for geometric objects');
-  entry('12:30',' 1:30<sup class="white">PM</sup>','Lunch','text');
-  entry(' 1:30',' 1:50<sup class="white">PM</sup>','Edgar Costa','min20','abstracts.php#EC_DR','The L-functions and modular forms database 1');
-  entry(' 2:00',' 2:20<sup class="white">PM</sup>','David Roe','min20','abstracts.php#EC_DR','The L-functions and modular forms database 2');
-  entry(' 2:30',' 3:00<sup class="white">PM</sup>','Coffee','text');
-  entry(' 3:00',' 3:20<sup class="white">PM</sup>','Andrew V. Sutherland','min20','abstracts.php#AS','Enumerating mathematical objects via cloud computing');
-  entry(' 3:30',' 4:00<sup class="white">PM</sup>','Stephen Miller','min20','abstracts.php#SM','TBA');
+  entry('<sup class="gray">AM</sup>&nbsp;&nbsp;10:00','10:20','Jan Goedgebeur','min20','abstracts.php#JG','House of Graphs: a database of interesting graphs');
+  entry('10:30','10:50','Hadrien Mélot','min20','abstracts.php#HM','TBA');
+  entry('11:00','11:30','Coffee','text');
+  entry('11:30','11:50','Martin Rubey','min20','abstracts.php#MR','FindStat');
+  entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Andreas Paffenholz','min20','abstracts.php#','polyDB: A database for geometric objects');
+  entry('12:30',' 1:30','Lunch','text');
+  entry(' 1:30',' 1:50','Edgar Costa','min20','abstracts.php#EC_DR','The L-functions and modular forms database 1');
+  entry(' 2:00',' 2:20','David Roe','min20','abstracts.php#EC_DR','The L-functions and modular forms database 2');
+  entry(' 2:30',' 3:00','Coffee','text');
+  entry(' 3:00',' 3:20','Andrew V. Sutherland','min20','abstracts.php#AS','Enumerating mathematical objects via cloud computing');
+  entry(' 3:30',' 4:00','Stephen Miller','min20','abstracts.php#SM','TBA');
 ?>
 </table>
 
