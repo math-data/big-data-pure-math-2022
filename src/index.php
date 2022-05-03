@@ -82,7 +82,6 @@ The speakers include
 <li><a href="https://people.cs.kuleuven.be/~jan.goedgebeur/">Jan Goedgebeur</a> (<a href="https://hog.grinvin.org/">House of Graphs</a>)</li>
 <li><a href="https://fredrikj.net/">Fredrik Johansson</a> (<a href="https://fungrim.org/">Fungrim</a>)</li> 
 <li><a href="https://magma.maths.usyd.edu.au/~kasprzyk/">Alexander M. Kasprzyk</a> (<a href="http://www.grdb.co.uk/">Graded Ring Database</a>)</li>
-<li><a href="https://kwarc.info/people/mkohlhase/">Michael Kohlhase</a> (<a href="https://kwarc.info/">KWARC</a>)</li>
 <li><a href="https://sites.math.rutgers.edu/~sdmiller/">Stephen D. Miller</a> (<a href="http://www.liegroups.org/">Atlas of Lie Groups and Representations</a>)</li>
 <li><a href="http://informatique.umons.ac.be/staff/Melot.Hadrien/">Hadrien M&eacute;lot</a> (<a href="https://doi.org/10.1007/978-3-030-18500-8_32">PHOEG</a>)</li>
 <li><a href="https://www2.mathematik.tu-darmstadt.de/~paffenholz/">Andreas Paffenholz</a> (<a href="https://db.polymake.org/">polyDB</a>)</li>
