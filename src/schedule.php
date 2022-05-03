@@ -30,15 +30,34 @@
   }
 ?>
 
-<div style="float: right; padding-top: 1.5em;">
-<div class="cleanslate w24tz-current-time w24tz-small" style="display: inline-block !important; visibility: hidden !important; min-width:200px !important; min-height:100px !important;"><p><a href="//24timezones.com/Boston/time" style="text-decoration: none" class="clock24" id="tz24-1651501819-c143-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIwIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I2MjZmZWFmYjU0OTRkIiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="World Time :: Boston" target="_blank" rel="nofollow">Current time at workshop (EDT, Boston)</a></p><div id="clock_block_cb626feafb5494d"></div></div>
+
+<div style="float: right; align: center; margin-top: 2em; padding: 0.3rem 0.7rem; border: 0.4rem solid #ddd; border-radius: 2rem;">
+<!--
+<div class="cleanslate w24tz-current-time w24tz-small" style="display: inline-block !important; visibility: hidden !important; min-width:200px !important; min-height:100px !important; background: white;">
+<p>
+<a href="//24timezones.com/Boston/time" style="text-decoration: none" class="clock24" id="tz24-1651501819-c143-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIwIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I2MjZmZWFmYjU0OTRkIiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="World Time :: Boston" target="_blank" rel="nofollow">Current time at workshop (EDT, Boston)</a>
+</p>
+<div id="clock_block_cb626feafb5494d"></div>
+</div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+-->
+
+<span style="text-align: right; color: #888;">
+Workshop's clock: <br> <a href="https://time.is/EDT" id="time_is_link" rel="nofollow" style="font-size:12px"></a>
+<!--<a href="https://time.is/EDT" id="time_is_link" rel="nofollow" style="font-size:12px">Time in Eastern Daylight Time:</a>-->
+<span id="_zU-240" style="font-size:12px;color:#888;"></span>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({"_zU-240":{id:"EDT_zU-240", template:"TIME, DATE", time_format:"12hours:minutes:seconds<sup> AMPM</sup>", date_format:"monthname dnum"}});
+</script>
+</span>
+
 </div>
 
 
 <h3>Schedule (preliminary)</h3>
 
 
-<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 
 <!--The schedule will become available during the first week of May.
 
