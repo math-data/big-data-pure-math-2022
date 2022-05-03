@@ -61,7 +61,7 @@
 <li><a href=""></a> ()</li>
 -->
 
-* &ndash; Invited speakers
+* &ndash; Speakers
 
 <p>
 
