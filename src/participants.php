@@ -29,7 +29,7 @@
 <li><a href="https://lkastner.github.io/">Lars Kastner</a> (TU Berlin)</li>
 <li><a href="https://kskedlaya.org">Kiran Kedlaya</a> (UC San Diego)</li>
 <li>Tymon Kilich (Gdańsk University of Technology)</li>
-<li><a href="https://kwarc.info/people/mkohlhase/">Michael Kohlhase</a>* (Friedrich-Alexander-Universität Erlangen-Nürnberg)</li>
+<li><a href="https://kwarc.info/people/mkohlhase/">Michael Kohlhase</a> (Friedrich-Alexander-Universität Erlangen-Nürnberg)</li>
 <li>Sampada Kolhatkar (NA)</li>
 <li><a href="https://www.math.ucdavis.edu/~mkoeppe/">Matthias Köppe</a> (UC Davis)</li>
 <li><a href="https://gkorpal.github.io/">Gaurish Korpal</a> (The University of Arizona)</li>
