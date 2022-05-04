@@ -129,7 +129,8 @@ Sunday, May 22
   entry(' 2:00',' 2:20','David Roe','min20','abstracts.php#EC_DR','The L-functions and modular forms database 2');
   entry(' 2:30',' 3:00','Coffee','text');
   entry(' 3:00',' 3:20','Andrew V. Sutherland','min20','abstracts.php#AS','Enumerating mathematical objects via cloud computing');
-  entry(' 3:30',' 4:00','Stephen Miller','min20','abstracts.php#SM','TBA');
+  entry(' 3:30',' 3:50','Stephen Miller','min20','abstracts.php#SM','TBA');
+  entry(' 3:55',' 4:00','Closing','text');
 ?>
 </table>
 
