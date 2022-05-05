@@ -120,7 +120,7 @@ Sunday, May 22
 <table>
 <?php
   entry('<sup class="gray">AM</sup>&nbsp;&nbsp;10:00','10:20','Jan Goedgebeur','min20','abstracts.php#JG','House of Graphs: a database of interesting graphs');
-  entry('10:30','10:50','Hadrien Mélot','min20','abstracts.php#HM','TBA');
+  entry('10:30','10:50','Hadrien Mélot','min20','abstracts.php#HM','Visualizing and manipulating PHOEG data to explore extremal properties of graphs');
   entry('11:00','11:30','Coffee','text');
   entry('11:30','11:50','Martin Rubey','min20','abstracts.php#MR','FindStat');
   entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Andreas Paffenholz','min20','abstracts.php#AP','polyDB: A database for geometric objects');
