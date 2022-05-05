@@ -16,6 +16,7 @@
 <li><a href="https://www.ma.ic.ac.uk/~buzzard/">Kevin Buzzard</a>* (Imperial College London)</li>
 <li>Anas Chentouf (MIT)</li>
 <li><a href="https://math.mit.edu/~shivac/">Shiva Chidambaram</a> (Massachusetts Institute of Technology)</li>
+<li>Mauricio Collares (UFMG)</li>
 <li><a href="https://math.mit.edu/~edgarc/">Edgar Costa</a>* (MIT)</li>
 <li>John Cremona (Warwick)</li>
 <li><a href="https://diliberti.github.io">Ivan Di Liberti</a> (Stockholm University)</li>
