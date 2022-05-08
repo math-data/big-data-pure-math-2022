@@ -36,6 +36,7 @@
 <li><a href="https://gkorpal.github.io/">Gaurish Korpal</a> (The University of Arizona)</li>
 <li>Lars Kühne (University of Copenhagen)</li>
 <li><a href="https://github.com/glangmead">Greg Langmead</a> (Carnegie Mellon University)</li>
+<li>Floriani Laurence (UMons)</li>
 <li>Benjamin Lorenz (TU Berlin)</li>
 <li><a href="http://math.bu.edu/people/matschke/">Benjamin Matschke</a> (Boston University)</li>
 <li>Oisin McGuinness</li>
@@ -45,6 +46,7 @@
 <li>Santiago Pineda (Universidad Nacional de Colombia)</li>
 <li><a href="http://plouffe.fr/">Simon Plouffe</a>*</li>
 <li>Joaquim Puig  (UPC Barcelona)</li>
+<li>Jarne Renders (KU Leuven Kulak)</li>
 <li><a href="">David Roe</a>* (MIT)</li>
 <li><a href="https://www.findstat.org">Martin Rubey</a>* (TU Wien)</li>
 <li><a href="https://math.mit.edu/~sschiavo/">Sam Schiavone</a> (MIT)</li>
