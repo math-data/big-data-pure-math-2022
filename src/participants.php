@@ -37,6 +37,7 @@
 <li>Lars Kühne (University of Copenhagen)</li>
 <li><a href="https://github.com/glangmead">Greg Langmead</a> (Carnegie Mellon University)</li>
 <li>Floriani Laurence (UMons)</li>
+<li>Thomas Lavend'Homme (University of Mons)</li>
 <li>Benjamin Lorenz (TU Berlin)</li>
 <li><a href="http://math.bu.edu/people/matschke/">Benjamin Matschke</a> (Boston University)</li>
 <li>Oisin McGuinness</li>
