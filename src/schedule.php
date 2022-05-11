@@ -94,7 +94,7 @@ sup.gray {
 <?php
   entry('<sup class="gray">AM</sup>&nbsp;&nbsp;&nbsp;&nbsp;9:50','10:00','Opening','text');
   entry('10:00','10:20','Simon Plouffe','min20','abstracts.php#SP','TBA');
-  entry('10:30','10:50','Alexander M Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
+  entry('10:30','10:50','Alexander M. Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
   entry('11:00','11:30','Coffee','text');
   entry('11:30','11:50','Urs Schreiber','min20','abstracts.php#US','The nLab project &ndash; past and possible future');
   entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Fredrik Johansson','min20','abstracts.php#FJ','Fungrim: a semantic library of mathematical functions');
@@ -125,8 +125,8 @@ Sunday, May 22
   entry('11:30','11:50','Martin Rubey','min20','abstracts.php#MR','FindStat');
   entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Andreas Paffenholz','min20','abstracts.php#AP','polyDB: A database for geometric objects');
   entry('12:30',' 1:30','Lunch','text');
-  entry(' 1:30',' 1:50','Edgar Costa','min20','abstracts.php#EC_DR','The L-functions and modular forms database 1');
-  entry(' 2:00',' 2:20','David Roe','min20','abstracts.php#EC_DR','The L-functions and modular forms database 2');
+  entry(' 1:30',' 1:50','Edgar Costa','min20','abstracts.php#EC_DR','The L-functions and modular forms database&nbsp;1');
+  entry(' 2:00',' 2:20','David Roe','min20','abstracts.php#EC_DR','The L-functions and modular forms database&nbsp;2');
   entry(' 2:30',' 3:00','Coffee','text');
   entry(' 3:00',' 3:20','Andrew V. Sutherland','min20','abstracts.php#AS','Enumerating mathematical objects via cloud computing');
   entry(' 3:30',' 3:50','Stephen D. Miller','min20','abstracts.php#SM','The Atlas of Lie Groups and Representations');
