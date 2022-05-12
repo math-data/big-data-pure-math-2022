@@ -69,6 +69,8 @@ For the titles, move the mouse over the names of the speakers.
 <br>
 For the <a href="abstracts.php">abstracts</a>, click on their names.
 <br>
+Discuss talks in the <a href="https://bdpm.zulipchat.com/#narrow/stream/324489-talks">zulip chat</a>.
+<br>
 <!--There is a <a href="schedule.pdf">printable version of the schedule</a>.
 <p>
 -->
@@ -93,7 +95,7 @@ sup.gray {
 <table>
 <?php
   entry('<sup class="gray">AM</sup>&nbsp;&nbsp;&nbsp;&nbsp;9:50','10:00','Opening','text');
-  entry('10:00','10:20','Simon Plouffe','min20','abstracts.php#SP','TBA');
+  entry('10:00','10:20','Simon Plouffe','min20','abstracts.php#SP','The inverter');
   entry('10:30','10:50','Alexander M. Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
   entry('11:00','11:30','Coffee','text');
   entry('11:30','11:50','Urs Schreiber','min20','abstracts.php#US','The nLab project &ndash; past and possible future');
@@ -103,7 +105,7 @@ sup.gray {
   entry(' 2:00',' 2:20','Alex J. Best','min20','abstracts.php#AB','Mathematical results as structured data');
   entry(' 2:30',' 3:00','Coffee','text');
   entry(' 3:00',' 3:20','William Stein','min20','abstracts.php#WS','Ways to Share Mathematical Computations and Data using CoCalc');
-  entry(' 3:30',' 4:00','Open discussion','text');
+  entry(' 3:30',' 4:00','Open discussion (see <a href="https://bdpm.zulipchat.com/#narrow/stream/324490-open-discussion">zulip chat</a>)','text');
 ?>
 </table>
 
