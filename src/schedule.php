@@ -96,7 +96,7 @@ sup.gray {
 <?php
   entry('<sup class="gray">AM</sup>&nbsp;&nbsp;&nbsp;&nbsp;9:50','10:00','Opening','text');
   entry('10:00','10:20','Simon Plouffe','min20','abstracts.php#SP','The inverter');
-  entry('10:30','10:50','Alexander M. Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','TBA');
+  entry('10:30','10:50','Alexander M. Kasprzyk, Gavin Brown','min20','abstracts.php#AK_GB','Combining databases in the classification of Fano varieties');
   entry('11:00','11:30','Coffee','text');
   entry('11:30','11:50','Urs Schreiber','min20','abstracts.php#US','The nLab project &ndash; past and possible future');
   entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Fredrik Johansson','min20','abstracts.php#FJ','Fungrim: a semantic library of mathematical functions');

@@ -85,6 +85,36 @@ Collections of formulas and tables for special functions are a classical genre o
 
 
 
+<div class="talk_author"><a name="AK_GB"></a>
+Alexander M. Kasprzyk and Gavin Brown
+</div>
+
+<div class="talk_title">
+Combining databases in the classification of Fano varieties
+</div>
+
+The <a href="http://grdb.co.uk/">Graded Ring Database</a> (GRDB) is a collection of datasets that relate to birational
+geometry. It has been available online since 2001. The graded rings of the title refer
+to the homogenous coordinate rings of projectively normal embedded varieties, and in
+particulat to the total anticanonical rings of Fano 3-folds.
+The database stores the Hilbert series of such rings: that is, it knows their graded vector
+space structure, and one view of the classification project is to understand what
+ring structures may arise. One explicit way to do this is to construct Fano 3-folds
+with a given Hilbert series. The GRDB contains datasets of Fano polygons &ndash; lattice
+polygons with a single strictly interior point &ndash; which the machinery of toric geometry
+translates into Fano varieties. Another approach applies Mirror Symmetry and uses
+a dataset of particular Laurent polynomials, the conjectured ‘mirrors’ to Fano 3-folds.
+Such approaches provide a direct map between datasets, which for Fano 3-folds
+realises large parts of the database. It is useful, therefore, to be able to interrogate these
+datasets from within a computer algebra system, and to be able to write to them
+securely from HPC clusters, as well as providing easy online access to other users.
+We will explain these connections.
+
+
+
+
+
+
 <div class="talk_author"><a name="HM"></a>
 Hadrien Mélot
 </div>
