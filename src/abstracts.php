@@ -20,7 +20,13 @@ Alex J. Best
 Mathematical results as structured data
 </div>
 
-
+Formalizing mathematics gives us rich and interesting data sources to play with, the statements and proofs of thousands of interesting results. 
+This data is mostly created by hand by humans and does not represent platonic mathematical objects in the way other existing databases of specific objects do, rather the data consists of specific proofs and results people were interested in carefully writing down. The data is then the proofs they chose, and the layout and design of the covered areas, it is therefore subject to changes over time, may contain different versions of essentially the same object, and of course will never be complete in any sense.
+Nevertheless for a working mathematician, having searchable access to a dataset of existing results and proofs can be useful; for searching for known results, generalizing existing work in unanticipated directions, or exploring the details of complicated arguments.
+<p>
+In this talk I'll explain a bit of the actual structure of a stored statement and proof in dependent type theory, and how by using algorithmic tools to iterate over a database of formal proofs we can spot possibilities to improve the stored proofs in various ways, thus making the database more useful to future users.
+<p>
+If time permits I will also discuss a few opportunities and challenges with integrating formally verified programming with existing databases of mathematical knowledge.
 
 
 
