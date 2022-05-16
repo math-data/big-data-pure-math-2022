@@ -19,6 +19,7 @@
 <li>Mauricio Collares (UFMG)</li>
 <li><a href="https://math.mit.edu/~edgarc/">Edgar Costa</a>* (MIT)</li>
 <li>John Cremona (Warwick)</li>
+<li>Gauvain Devillez (University of Mons)</li>
 <li><a href="https://diliberti.github.io">Ivan Di Liberti</a> (Stockholm University)</li>
 <li>Mike Douglas (Harvard and Stony Brook)</li>
 <li><a href="https://math.dartmouth.edu/~jduque/">Juanita Duque-Rosero</a> (Dartmouth College)</li>
@@ -31,6 +32,7 @@
 <li><a href="https://lkastner.github.io/">Lars Kastner</a> (TU Berlin)</li>
 <li><a href="https://kskedlaya.org">Kiran Kedlaya</a> (UC San Diego)</li>
 <li>Tymon Kilich (Gdańsk University of Technology)</li>
+<li>Michael Klucznik (Saint Bonaventure University)</li>
 <li><a href="https://kwarc.info/people/mkohlhase/">Michael Kohlhase</a> (Friedrich-Alexander-Universität Erlangen-Nürnberg)</li>
 <li>Sampada Kolhatkar (NA)</li>
 <li><a href="https://www.math.ucdavis.edu/~mkoeppe/">Matthias Köppe</a> (UC Davis)</li>
@@ -40,6 +42,7 @@
 <li>Floriani Laurence (UMons)</li>
 <li>Thomas Lavend'Homme (University of Mons)</li>
 <li>Marc van Leeuwen (Université de Poitiers)</li>
+<li>Adam Logan (Carleton University)</li>
 <li>Benjamin Lorenz (TU Berlin)</li>
 <li><a href="http://math.bu.edu/people/matschke/">Benjamin Matschke</a> (Boston University)</li>
 <li>Oisin McGuinness</li>
