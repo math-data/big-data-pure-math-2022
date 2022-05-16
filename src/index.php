@@ -94,7 +94,7 @@ The speakers include
 </ul>
 
 <p>
-Anybody wishing to attend is welcome to <a href="registration.php">register</a>. (Deadline for registration: May 14.)
+Anybody wishing to attend is welcome to <a href="registration.php">register</a>. (Deadline for registration: May 20.)
 
 <p>
 See you virtually in Boston!
