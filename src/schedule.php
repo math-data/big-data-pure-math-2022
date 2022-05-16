@@ -55,7 +55,7 @@ time_is_widget.init({"_zU-240":{id:"EDT_zU-240", template:"TIME, DATE", time_for
 </div>
 
 
-<h3>Schedule (preliminary)</h3>
+<h3>Schedule</h3>
 
 
 
