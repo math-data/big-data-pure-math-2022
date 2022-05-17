@@ -19,6 +19,7 @@
 <li>Mauricio Collares (UFMG)</li>
 <li><a href="https://math.mit.edu/~edgarc/">Edgar Costa</a>* (MIT)</li>
 <li>John Cremona (Warwick)</li>
+<li>Antony Della Vecchia (TU Berlin)</li>
 <li>Gauvain Devillez (University of Mons)</li>
 <li><a href="https://diliberti.github.io">Ivan Di Liberti</a> (Stockholm University)</li>
 <li>Mike Douglas (Harvard and Stony Brook)</li>

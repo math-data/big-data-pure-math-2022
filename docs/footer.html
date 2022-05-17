@@ -18,18 +18,6 @@
 <li><a href="https://numberdb.org/">NumberDB</a></li>
 </ul>
 
-<!--
-Sponsored by:
-<a href="http://idex.u-bordeaux.fr/">IdEx</a>,
-<a href="http://jtnb.math.u-bordeaux.fr/">JTNB</a>.
--->
-
-<!--
-<h4>Sponsors</h4>
-<a href="http://idex.u-bordeaux.fr/"><img src="idex.png" height="48" width="auto"></a>,
-<a href="http://jtnb.math.u-bordeaux.fr/"><img src="jtnb.gif" height="48" width="auto"></a>.
--->
-
 <p>
 <span></span><!-- dummy -->
 </td>
