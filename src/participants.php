@@ -61,7 +61,7 @@
 <li><a href="https://wstein.org/">William Stein</a>*</li>
 <li><a href="https://math.mit.edu/~drew">Andrew Sutherland</a>* (MIT)</li>
 <li>Cristina Villanueva-Segovia (UNAM)</li>
-<li><a href="http://www.math.dartmouth.edu/~jvoight/">John Voight</a> (Dartmouth College)</li>
+<!--<li><a href="http://www.math.dartmouth.edu/~jvoight/">John Voight</a> (Dartmouth College)</li>-->
 <li>Michael Wijaya (Bard High School Early College Queens)</li>
 <li>Tianqi Wu (Clark University)</li>
 </ul>
