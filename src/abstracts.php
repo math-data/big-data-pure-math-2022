@@ -129,7 +129,7 @@ Hadrien Mélot
 Visualizing and manipulating PHOEG data to explore extremal properties of graphs
 </div>
 
-PHOEG is an acronym for "PHOEG Helps to Obtain Extremal Graphs". This discovery system is based on a large database of small graphs, invariant values ​​and graph transformation effects. It uses a geometric approach to discover inequalities between graph invariants and hints for proofs by transformation. PHOEG provided tight bounds for several graph invariants, including the number and average number of non-equivalent colorings and the eccentric connectivity index. In this talk, we present a new web interface that allows graph theorists to query PHOEG and manipulate and visualize the outputs, without the need for programming.
+<a href="https://phoeg.umons.ac.be">PHOEG</a> is an acronym for "PHOEG Helps to Obtain Extremal Graphs". This discovery system is based on a large database of small graphs, invariant values ​​and graph transformation effects. It uses a geometric approach to discover inequalities between graph invariants and hints for proofs by transformation. PHOEG provided tight bounds for several graph invariants, including the number and average number of non-equivalent colorings and the eccentric connectivity index. In this talk, we present a new web interface that allows graph theorists to query PHOEG and manipulate and visualize the outputs, without the need for programming.
 
 
 
