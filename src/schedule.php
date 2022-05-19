@@ -127,7 +127,7 @@ Sunday, May 22
   entry('11:30','11:50','Martin Rubey','min20','abstracts.php#MR','FindStat');
   entry('<sup class="gray">PM</sup>&nbsp;&nbsp;12:00','12:20','Andreas Paffenholz','min20','abstracts.php#AP','polyDB: A database for geometric objects');
   entry('12:30',' 1:30','Lunch','text');
-  entry(' 1:30',' 1:50','Open discussion on Diversity & Inclusion','text');
+  entry(' 1:30',' 1:50','Open discussion on Diversity & Inclusion (<a href="https://bdpm.zulipchat.com/#narrow/stream/324487-general/topic/Diversity.20and.20inclusion">zulipchat</a>)','text');
   entry(' 2:00',' 2:20','David Roe','min20','abstracts.php#DR','The L-functions and modular forms database');
   entry(' 2:30',' 3:00','Coffee','text');
   entry(' 3:00',' 3:20','Andrew V. Sutherland','min20','abstracts.php#AS','Enumerating mathematical objects via cloud computing');

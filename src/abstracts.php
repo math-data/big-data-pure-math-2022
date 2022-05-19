@@ -44,20 +44,6 @@ mathlib: a database of mathematical proofs
 
 
 
-<div class="talk_author"><a name="DR"></a>
-David Roe
-</div>
-
-<div class="talk_title">
-The L-functions and modular forms database
-</div>
-
-The Langlands program, first formulated by Robert Langlands in the 1960s, is a set of widespread conjectures.
-It gives a scheme for navigating between a dizzying array of subfields of mathematics, including number theory, representation theory, algebraic geometry, and harmonic analysis &mdash; and in the 21st century its reach continues to expand. The L-functions and modular forms database (LMFDB) at <a href="https://www.lmfdb.org">https://www.lmfdb.org</a> provides an online portal into many of the mathematical objects underlying this program, including elliptic curves, number fields, modular forms and L-functions.
-<p>
-I will demonstrate how you can use the LMFDB to investigate problems in number theory and search for objects with specified properties.  In addition, I will discuss the infrastructure underlying the LMFDB, with a view toward lessons that might be helpful for other mathematical databases.
-
-
 
 
 
@@ -177,6 +163,24 @@ The talk will give details on how the <a href="http://wayback.cecm.sfu.ca/projec
 present situation. Some details of the algorithms used will be explained.
 <p>
 Some results will be presented from which some are known.
+
+
+
+
+
+
+<div class="talk_author"><a name="DR"></a>
+David Roe
+</div>
+
+<div class="talk_title">
+The L-functions and modular forms database
+</div>
+
+The Langlands program, first formulated by Robert Langlands in the 1960s, is a set of widespread conjectures.
+It gives a scheme for navigating between a dizzying array of subfields of mathematics, including number theory, representation theory, algebraic geometry, and harmonic analysis &mdash; and in the 21st century its reach continues to expand. The L-functions and modular forms database (LMFDB) at <a href="https://www.lmfdb.org">https://www.lmfdb.org</a> provides an online portal into many of the mathematical objects underlying this program, including elliptic curves, number fields, modular forms and L-functions.
+<p>
+I will demonstrate how you can use the LMFDB to investigate problems in number theory and search for objects with specified properties.  In addition, I will discuss the infrastructure underlying the LMFDB, with a view toward lessons that might be helpful for other mathematical databases.
 
 
 
