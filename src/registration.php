@@ -5,7 +5,7 @@
   include "header.php";
 ?>
 
-The deadline for registration is May 14.
+The deadline for registration is May 20.
 <!--Soon after the scientific committee will meet concerning the short talks. --><!-- and funding requests.-->
 <p>
 
