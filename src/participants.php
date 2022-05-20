@@ -28,6 +28,7 @@
 <li><a href="https://jfine2358.github.io/">Jonathan Fine</a> (Open University (retired))</li>
 <li>Laurence Floriani (UMons)</li>
 <li>Matt Garrett (Tilburg University)</li>
+<li>Andrey Glubokov (Purdue University)</li>
 <li><a href="https://people.cs.kuleuven.be/~jan.goedgebeur/">Jan Goedgebeur</a>* (KU Leuven)</li>
 <li>Tom Hagedorn (The College of New Jersey)</li>
 <li><a href="https://www.hanselmanj.eu">Jeroen Hanselman</a> (TU Kaiserslautern)</li>
@@ -72,7 +73,9 @@
 <li>Ergun Suer (University of Oklahoma)</li>
 <li>Haoyu Sun (UT Austin)</li>
 <li><a href="https://math.mit.edu/~drew">Andrew Sutherland</a>* (MIT)</li>
+<li>Tom Sutherland (University of Vienna)</li>
 <li>Damiano Testa (University of Warwick)</li>
+<li>Maximiliano Vides (Universidad Nacional de Córdoba)</li>
 <li>Cristina Villanueva-Segovia (UNAM)</li>
 <li><a href="https://warwick.ac.uk/fac/sci/maths/people/staff/visser/">Robin Visser</a> (University of Warwick)</li>
 <!--<li><a href="http://www.math.dartmouth.edu/~jvoight/">John Voight</a> (Dartmouth College)</li>-->
