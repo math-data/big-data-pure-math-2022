@@ -33,6 +33,7 @@
 <li>Tom Hagedorn (The College of New Jersey)</li>
 <li><a href="https://www.hanselmanj.eu">Jeroen Hanselman</a> (TU Kaiserslautern)</li>
 <li><a href="https://math.bu.edu/people/drhast/">Daniel Hast</a> (Boston University)</li>
+<li>David Hui (HKUST)</li>
 <li><a href="https://fredrikj.net">Fredrik Johansson</a>* (Inria Bordeaux)</li>
 <li><a href="https://magma.maths.usyd.edu.au/~kasprzyk/">Alexander M. Kasprzyk</a>* (University of Nottingham)</li>
 <li><a href="https://lkastner.github.io/">Lars Kastner</a> (TU Berlin)</li>
