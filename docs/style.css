@@ -52,6 +52,18 @@
   color: #333333; #555555;
 }
 
+div.horizontal-container {
+  margin: auto;
+  max-width: 48rem;
+  font-size: 1rem; /* base for most em's */
+  background: #fff;
+  padding: calc(1rem + 1 * var(--srem));
+  padding-bottom: 4rem;
+  /*border-top: 0.3rem solid #aeb;*/
+  border: 1px solid #ddd;
+  border-left: 0.5em solid #5a8;
+}
+
 /*
 ::selection {
   background: #ccc;

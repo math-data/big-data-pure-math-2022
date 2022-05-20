@@ -69,6 +69,7 @@
 <li><a href="kauesena.xyz">Kauê Sena</a> (University of São Paulo)</li>
 <li><a href="https://wstein.org/">William Stein</a>*</li>
 <li><a href="https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebraische_Kombinatorik/ChristianStump.html">Christian Stump</a> (Ruhr-Universität Bochum)</li>
+<li>Ergun Suer (University of Oklahoma)</li>
 <li>Haoyu Sun (UT Austin)</li>
 <li><a href="https://math.mit.edu/~drew">Andrew Sutherland</a>* (MIT)</li>
 <li>Damiano Testa (University of Warwick)</li>

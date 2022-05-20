@@ -12,30 +12,16 @@ include "commons.php";
 </head>
 <body>
 
-<br>
 
-<table id="Inhalt" valign="center" align="center" height="1" width="680em"><tbody>
-<tr><td colspan="3">
+<div class="horizontal-container">
+    
 <img src="bdpm2.jpg" alt="" width="100%" height="auto">
-</td></tr>
-<tr><td colspan="3">
+
 <h1>Big Data in Pure Mathematics 2022 <p> <span>May 21&mdash;22, Boston University (online)</span> </h1>
+
 <hr class="separatorTop2">
-</td></tr>
 
-<tr>
-<td width="5%"></td>
-<td width="auto" valign="top" align="center">
 <?php include "menu.php";?>
-</td>
-<td width="5%"></td>
-</td>
-</tr>
 
-<tr><td colspan="3">
 <hr class="separator2">
-</td></tr>
 
-<tr>
-<td width="3%"></td>
-<td width="auto" colspan="1" cell-padding="10em">

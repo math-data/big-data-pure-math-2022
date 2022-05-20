@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <a href="index.php">Home</a> &middot;
 <a href="schedule.php">Schedule</a> &middot;
 <a href="abstracts.php">Abstracts</a> &middot;
@@ -9,3 +10,4 @@
 <a href="practicalInformation.php">Practical&nbsp;information</a> &middot;
 <a href="aboutBordeaux.php">About&nbsp;Bordeaux</a>
 -->
+</div>
