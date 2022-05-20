@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:BDPM2022
+CALSCALE:GREGORIAN
+X-WR-CALNAME:BDPM2022
+BEGIN:VEVENT
+SUMMARY:Simon Plouffe
+DTSTART;VALUE=DATE-TIME:20220521T140000Z
+DTEND;VALUE=DATE-TIME:20220521T142000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/1
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/1/">The inverter</a>\nby Simon Plouffe as part of Big Data in Pure M
+ athematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alexander M. Kasprzyk\, Gavin Brown
+DTSTART;VALUE=DATE-TIME:20220521T143000Z
+DTEND;VALUE=DATE-TIME:20220521T145000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/2
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/2/">Combining databases in the classification of Fano varieties</a>\
+ nby Alexander M. Kasprzyk\, Gavin Brown as part of Big Data in Pure Mathem
+ atics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AK_GB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urs Schreiber
+DTSTART;VALUE=DATE-TIME:20220521T153000Z
+DTEND;VALUE=DATE-TIME:20220521T155000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/3
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/3/">The nLab project - past and possible future</a>\nby Urs Schreibe
+ r as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#US
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fredrik Johansson
+DTSTART;VALUE=DATE-TIME:20220521T160000Z
+DTEND;VALUE=DATE-TIME:20220521T162000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/4
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/4/">Fungrim: a semantic library of mathematical functions</a>\nby Fr
+ edrik Johansson as part of Big Data in Pure Mathematics 2022\n\nAbstract: 
+ TBA\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#FJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kevin M. Buzzard
+DTSTART;VALUE=DATE-TIME:20220521T173000Z
+DTEND;VALUE=DATE-TIME:20220521T175000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/5
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/5/">mathlib: a database of mathematical proofs</a>\nby Kevin M. Buzz
+ ard as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#KB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex J. Best
+DTSTART;VALUE=DATE-TIME:20220521T180000Z
+DTEND;VALUE=DATE-TIME:20220521T182000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/6
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/6/">Mathematical results as structured data</a>\nby Alex J. Best as 
+ part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William Stein
+DTSTART;VALUE=DATE-TIME:20220521T190000Z
+DTEND;VALUE=DATE-TIME:20220521T192000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/7
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/7/">Ways to Share Mathematical Computations and Data using CoCalc</a
+ >\nby William Stein as part of Big Data in Pure Mathematics 2022\n\nAbstra
+ ct: TBA\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#WS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan Goedgebeur
+DTSTART;VALUE=DATE-TIME:20220522T140000Z
+DTEND;VALUE=DATE-TIME:20220522T142000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/8
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/8/">House of Graphs: a database of interesting graphs</a>\nby Jan Go
+ edgebeur as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#JG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hadrien Mélot
+DTSTART;VALUE=DATE-TIME:20220522T143000Z
+DTEND;VALUE=DATE-TIME:20220522T145000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/9
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/9/">Visualizing and manipulating PHOEG data to explore extremal prop
+ erties of graphs</a>\nby Hadrien Mélot as part of Big Data in Pure Mathem
+ atics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#HM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Rubey
+DTSTART;VALUE=DATE-TIME:20220522T153000Z
+DTEND;VALUE=DATE-TIME:20220522T155000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/10
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/10/">FindStat</a>\nby Martin Rubey as part of Big Data in Pure Mathe
+ matics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#MR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andreas Paffenholz
+DTSTART;VALUE=DATE-TIME:20220522T160000Z
+DTEND;VALUE=DATE-TIME:20220522T162000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/11
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/11/">polyDB: A database for geometric objects</a>\nby Andreas Paffen
+ holz as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:open discussion
+DTSTART;VALUE=DATE-TIME:20220522T173000Z
+DTEND;VALUE=DATE-TIME:20220522T175000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/12
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/12/">Diversity and inclusion</a>\nby open discussion as part of Big 
+ Data in Pure Mathematics 2022\n
+LOCATION:https://bdpm.zulipchat.com/#narrow/stream/324487-general/topic/Diversity.20and.20inclusion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Roe
+DTSTART;VALUE=DATE-TIME:20220522T180000Z
+DTEND;VALUE=DATE-TIME:20220522T182000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/13
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/13/">The L-functions and modular forms database</a>\nby David Roe as
+  part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#DR
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrew V. Sutherland
+DTSTART;VALUE=DATE-TIME:20220522T190000Z
+DTEND;VALUE=DATE-TIME:20220522T192000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/14
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/14/">Enumerating mathematical objects via cloud computing</a>\nby An
+ drew V. Sutherland as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen D. Miller
+DTSTART;VALUE=DATE-TIME:20220522T193000Z
+DTEND;VALUE=DATE-TIME:20220522T195000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/15
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/15/">The Atlas of Lie Groups and Representations</a>\nby Stephen D. 
+ Miller as part of Big Data in Pure Mathematics 2022\n
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:open discussion
+DTSTART;VALUE=DATE-TIME:20220521T193000Z
+DTEND;VALUE=DATE-TIME:20220521T200000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/16
+DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
+ ath22/16/">Open discussion</a>\nby open discussion as part of Big Data in 
+ Pure Mathematics 2022\n
+LOCATION:https://bdpm.zulipchat.com/#narrow/stream/324490-open-discussion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening
+DTSTART;VALUE=DATE-TIME:20220521T140000Z
+DTEND;VALUE=DATE-TIME:20220521T142000Z
+DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
+UID:BigDataPureMath22/17
+DESCRIPTION:Opening of the workshop
+LOCATION:https://math-data.github.io/big-data-pure-math-2022/schedule.html
+END:VEVENT
+END:VCALENDAR

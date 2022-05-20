@@ -138,6 +138,9 @@ Sunday, May 22
 ?>
 </table>
 
+<p>
+
+Export calender to <a href="https://calendar.google.com/calendar/render?cid=https://math-data.github.io/big-data-pure-math-2022/BigDataPureMath22.ics">Google Calendar</a> and <a href="BigDataPureMath22.ics">iCal/Outlook/others</a>.
 
 <p>
 
