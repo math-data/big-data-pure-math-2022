@@ -5,7 +5,7 @@ $thispage = "index.php";
 include "commons.php";
 ?>
 <title><?php print $pageTitle;?></title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style2.css">
 <link rel="icon" type="image/png" href="bdpmIcon16sat.png" />
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

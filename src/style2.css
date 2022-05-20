@@ -1,0 +1,587 @@
+/* Respect user's setting for font-size until it gets too cramped: */
+@media only screen and (max-width: 25rem) {
+  :root {
+    font-size: calc(100vw / 25);
+  }
+}
+
+/* Define a variables that are 0rem for small screens,
+ * 1rem for bigger ones, and interpolate linearly in between: */
+:root {
+  --srem: 0rem;
+  --mrem: 0rem;
+  --lrem: 0rem;
+}
+@media only screen and (min-width: 25rem) {
+  :root {
+    --srem: calc((100vw - 25rem) / (37.5 - 25));
+    --mrem: calc((100vw - 25rem) / (48 - 25));
+    --lrem: calc((100vw - 25rem) / (64 - 25));
+  }
+}
+@media only screen and (min-width: 37.5rem) {
+  :root {
+    --srem: 1rem;
+  }
+}
+@media only screen and (min-width: 48rem) {
+  :root {
+    --mrem: 1rem;
+  }
+}
+@media only screen and (min-width: 64rem) {
+  :root {
+    --lrem: 1rem;
+  }
+}
+
+/**
+ * Assuming default 1rem = 16px, we get natural break points:
+ * 320px = 20rem
+ * 400px = 25rem
+ * 600px = 37.5rem
+ * 748px = 48rem
+ * 1024px = 64 rem
+ */
+
+* {
+  font-family: Geneva,Verdana,Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #333333; #555555;
+}
+
+div.horizontal-container {
+  margin: auto;
+  max-width: 48rem;
+  font-size: 1rem; /* base for most em's */
+  background: #fff;
+  padding: calc(1rem + 1 * var(--srem));
+  padding-bottom: 4rem;
+  /*border-top: 0.3rem solid #aeb;*/
+  border: 1px solid #ddd;
+  border-left: 0.5em solid #5a8;
+}
+
+/*
+::selection {
+  background: #ccc;
+  color: #000;
+}
+
+::-moz-selection {
+  background: #ccc;
+  color: #000;
+}
+*/
+
+li {
+  list-style-type: circle;
+}
+
+body {
+  background-color: #abd; #bcd; #BDD1D2; #A8CFD2; #D2CFA8; #ffc ;#aba; #bbd; #666; #bbb; #999; #556; #666;#666; #eee; #E8E8E8; #CCCCCC; #FFFFFF; #F1F1FF; #DDDDBB;#CCB899;
+/*  background-image: url(kariert5.jpg);
+ background-image: url("algophant5.jpg");
+*/  
+}
+
+#bg {
+  /* Set rules to fill background 
+  min-height: 100%;
+  min-width: 1024px;
+  */
+  
+  /* Set up proportionate scaling */
+  width: 680;
+  height: auto;
+	
+  /* Set up positioning */
+  position: relative;
+  align: center;
+  /*top: 0;
+  left: 0;
+  z-index: -1;
+  */
+}
+
+html{
+  margin:0px 0px 0px 0px; 
+  padding:0px 0px 0px 0px; 
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 14px; 
+  color:#fff;  
+/*  background-image:url(kariert5.jpg); 
+*/  background-position:center;     
+  height:100%;
+}
+body{
+  margin:0px 0px 0px 0px; 
+  padding:0px 0px 0px 0px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color:#fff;  
+/*  background-image:url(bg_body2.jpg);
+  background-position:center top;
+  background-repeat:no-repeat;
+*/  height:100%;
+}
+
+ 
+a, a.visited {
+  border-bottom: 1px dotted;
+  border-bottom-width: 1px;
+  color: #a62; #262; #33a; #36a;
+}
+
+
+a:hover, a.active {
+  border-bottom: 1px;
+  border-bottom-width: 1px;
+  color: #210;
+//  color: #04c;
+}
+
+a::selection {
+  background: #fff;
+  color: #f00;
+}
+
+h1 {
+  font-size: 28px;
+  color: #777; #090; #e60;
+  text-align: center
+}
+
+h3 {
+  font-size: 22px;
+  color: #777; #090; #e60;
+}
+
+h4 {
+  font-size: 18px;
+  color: #777; #090; #e60; #388221;
+}
+
+h5 {
+  font-size: 16px;
+  color: #777; #090; #e60; #388221;
+}
+
+#BunteLeiste {
+  background-color: #fff; #aaf; #eef; #7A96AB; #608AAC; #CDDFED; #CCCCCC; #BB8800;
+}
+
+#Inhalt {
+  background-color: #ffffff;#eeeecc;
+}
+
+th.sortable, td.sortable {
+  padding: 5px;
+}
+
+table.sortable thead {
+//  background-color: #ebe8ba;#DDDDBB;#eee; /*header*/
+}
+
+table.sortable tbody {
+//  background-color: #ffffff;#f5f5ca; /*gerade Zeilen*/
+}
+
+table.sortable tbody tr.odd {
+//  background-color: #f5f5ca; #fdfddc; /*ungerade Zeilen*/
+}
+
+span.paragraph {
+  color:#e60;
+}
+
+span.emph {
+  font-style:italic;
+}
+
+span.small {
+  font-size: 8px;
+}
+
+span.email {
+  position:relative;
+  top:3px;
+}
+
+sup, .superscript {
+  vertical-align:top;
+  color: inherit;
+  font-size: 10px;
+}
+sub, .subscript {
+  vertical-align:bottom;
+  color: inherit;
+  font-size: 10px;
+}
+
+div.equation {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+div.block {
+  text-align: left;
+  width: 90%;
+  margin: auto;
+  padding: 10pt;
+  background-color: #fafafa;
+  border: 5pt solid;
+  border-color: #eeeeee;
+}
+
+div.talk_author {
+  text-align: center;
+  font-size: 14pt;
+  color: #888888;
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+div.talk_title {
+  text-align: center;
+  font-size: 14pt;
+  color: #aa8844;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+div.schedule_day {
+  text-align: center;
+  font-size: 14pt;
+  color: #aa8844;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+td.text {
+  color: #888888;
+  font-variant: small-caps;  
+}
+
+td.min50, td.min30, td.min20 {
+  color: #225522;
+}
+
+hr.separator {
+  display: block;
+  height: 0pt;
+  border: 0;
+  border-top: 5px solid #ddd;
+  padding: 0;
+  margin-top: 65pt;
+  margin-bottom: 10pt;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+hr.separatorTop2 {
+  display: block;
+  height: 0pt;
+  border: 0;
+  border-top: 5px solid #ddd;
+  padding: 0;
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+hr.separator2 {
+  display: block;
+  height: 0pt;
+  border: 0;
+  border-top: 5px solid #ddd;
+  padding: 0;
+  margin-top: 10pt;
+  margin-bottom: 20pt;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+span.frac {
+  display: inline-block;
+  font-size: 75%;
+  text-align: center;
+  vertical-align: -5px;
+}
+span.frac > sup {
+  display: block;
+  border-bottom: 1px solid;
+  font: inherit;
+}
+span.frac > span {
+  display: none;
+}
+span.frac > sub {
+  display: block;
+  font: inherit;
+}
+
+.tooltip {
+  display: inline;
+  position: relative;
+  text-decoration: none;
+  top: 0px;
+  left: 0px;
+}
+
+.tooltip:hover:after {
+  background: #333;
+  background: rgba(0,0,0,.8);
+  border-radius: 5px;
+  top: -5px;
+  color: #fff;
+  content: attr(alt);
+  left: 160px;
+  padding: 5px 15px;
+  position: absolute;
+  z-index: 98;
+  width: 150px;
+}
+
+.tooltip:hover:before {
+  border: solid;
+  border-color: transparent black;
+  border-width: 6px 6px 6px 0;
+  bottom: 20px;
+  content: "";
+  left: 155px;
+  position: absolute;
+  z-index: 99;
+  top: 3px;
+}
+
+
+
+
+/**
+ * Tooltip Styles
+ */
+
+/* Base styles for the element that has a tooltip */
+[data-tooltip],
+.tooltip {
+  position: relative;
+  cursor: pointer;
+}
+
+/* Base styles for the entire tooltip */
+[data-tooltip]:before,
+[data-tooltip]:after,
+.tooltip:before,
+.tooltip:after {
+  position: absolute;
+  visibility: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -webkit-transition: 
+      opacity 0.2s ease-in-out,
+        visibility 0.2s ease-in-out,
+        -webkit-transform 0.2s cubic-bezier(0.71, 1.7, 0.77, 1.24);
+    -moz-transition:    
+        opacity 0.2s ease-in-out,
+        visibility 0.2s ease-in-out,
+        -moz-transform 0.2s cubic-bezier(0.71, 1.7, 0.77, 1.24);
+    transition:         
+        opacity 0.2s ease-in-out,
+        visibility 0.2s ease-in-out,
+        transform 0.2s cubic-bezier(0.71, 1.7, 0.77, 1.24);
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform:    translate3d(0, 0, 0);
+  transform:         translate3d(0, 0, 0);
+  pointer-events: none;
+}
+
+/* Show the entire tooltip on hover and focus */
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after,
+[data-tooltip]:focus:before,
+[data-tooltip]:focus:after,
+.tooltip:hover:before,
+.tooltip:hover:after,
+.tooltip:focus:before,
+.tooltip:focus:after {
+  visibility: visible;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+/* Base styles for the tooltip's directional arrow */
+.tooltip:before,
+[data-tooltip]:before {
+  z-index: 1001;
+  border: 6px solid transparent;
+  background: transparent;
+  content: "";
+}
+
+/* Base styles for the tooltip's content area */
+.tooltip:after,
+[data-tooltip]:after {
+  z-index: 1000;
+  padding: 8px;
+  width: 160px;
+  background-color: #000;
+  background-color: hsla(0, 0%, 20%, 0.9);
+  color: #fff;
+  content: attr(data-tooltip);
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+/* Directions */
+
+/* Top (default) */
+[data-tooltip]:before,
+[data-tooltip]:after,
+.tooltip:before,
+.tooltip:after,
+.tooltip-top:before,
+.tooltip-top:after {
+  bottom: 100%;
+  left: 50%;
+}
+
+[data-tooltip]:before,
+.tooltip:before,
+.tooltip-top:before {
+  margin-left: -6px;
+  margin-bottom: -12px;
+  border-top-color: #000;
+  border-top-color: hsla(0, 0%, 20%, 0.9);
+}
+
+/* Horizontally align top/bottom tooltips */
+[data-tooltip]:after,
+.tooltip:after,
+.tooltip-top:after {
+  margin-left: -80px;
+}
+
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after,
+[data-tooltip]:focus:before,
+[data-tooltip]:focus:after,
+.tooltip:hover:before,
+.tooltip:hover:after,
+.tooltip:focus:before,
+.tooltip:focus:after,
+.tooltip-top:hover:before,
+.tooltip-top:hover:after,
+.tooltip-top:focus:before,
+.tooltip-top:focus:after {
+  -webkit-transform: translateY(-12px);
+  -moz-transform:    translateY(-12px);
+  transform:         translateY(-12px); 
+}
+
+/* Left */
+.tooltip-left:before,
+.tooltip-left:after {
+  right: 100%;
+  bottom: 50%;
+  left: auto;
+}
+
+.tooltip-left:before {
+  margin-left: 0;
+  margin-right: -12px;
+  margin-bottom: 0;
+  border-top-color: transparent;
+  border-left-color: #000;
+  border-left-color: hsla(0, 0%, 20%, 0.9);
+}
+
+.tooltip-left:hover:before,
+.tooltip-left:hover:after,
+.tooltip-left:focus:before,
+.tooltip-left:focus:after {
+  -webkit-transform: translateX(-12px);
+  -moz-transform:    translateX(-12px);
+  transform:         translateX(-12px); 
+}
+
+/* Bottom */
+.tooltip-bottom:before,
+.tooltip-bottom:after {
+  top: 100%;
+  bottom: auto;
+  left: 50%;
+}
+
+.tooltip-bottom:before {
+  margin-top: -12px;
+  margin-bottom: 0;
+  border-top-color: transparent;
+  border-bottom-color: #000;
+  border-bottom-color: hsla(0, 0%, 20%, 0.9);
+}
+
+.tooltip-bottom:hover:before,
+.tooltip-bottom:hover:after,
+.tooltip-bottom:focus:before,
+.tooltip-bottom:focus:after {
+  -webkit-transform: translateY(12px);
+  -moz-transform:    translateY(12px);
+  transform:         translateY(12px); 
+}
+
+/* Right */
+.tooltip-right:before,
+.tooltip-right:after {
+  bottom: 50%;
+  left: 100%;
+}
+
+.tooltip-right:before {
+  margin-bottom: 0;
+  margin-left: -12px;
+  border-top-color: transparent;
+  border-right-color: #000;
+  border-right-color: hsla(0, 0%, 20%, 0.9);
+}
+
+.tooltip-right:hover:before,
+.tooltip-right:hover:after,
+.tooltip-right:focus:before,
+.tooltip-right:focus:after {
+  -webkit-transform: translateX(12px);
+  -moz-transform:    translateX(12px);
+  transform:         translateX(12px); 
+}
+
+/* Move directional arrows down a bit for left/right tooltips */
+.tooltip-left:before,
+.tooltip-right:before {
+  top: 3px;
+}
+
+/* Vertically center tooltip content for left/right tooltips */
+.tooltip-left:after,
+.tooltip-right:after {
+  margin-left: 0;
+  margin-bottom: -16px;
+}
