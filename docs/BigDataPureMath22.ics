@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:BigDataPureMath2022
 CALSCALE:GREGORIAN
-X-WR-CALNAME:math-data.github.io/big-data-pure-math-2022
+X-WR-CALNAME:Big Data Pure Math 2022
 BEGIN:VEVENT
 SUMMARY:Simon Plouffe
 DTSTART;VALUE=DATE-TIME:20220521T140000Z
 DTEND;VALUE=DATE-TIME:20220521T142000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/1
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/1/">The inverter</a>\nby Simon Plouffe as part of Big Data in Pure M
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SP">The inverter</a>\nby Simon Plouffe as part of Big Data in Pure M
  athematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SP
 END:VEVENT
@@ -20,8 +19,7 @@ DTSTART;VALUE=DATE-TIME:20220521T143000Z
 DTEND;VALUE=DATE-TIME:20220521T145000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/2
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/2/">Combining databases in the classification of Fano varieties</a>\
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AK_GB">Combining databases in the classification of Fano varieties</a>\
  nby Alexander M. Kasprzyk\, Gavin Brown as part of Big Data in Pure Mathem
  atics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AK_GB
@@ -32,8 +30,7 @@ DTSTART;VALUE=DATE-TIME:20220521T153000Z
 DTEND;VALUE=DATE-TIME:20220521T155000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/3
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/3/">The nLab project - past and possible future</a>\nby Urs Schreibe
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#US">The nLab project - past and possible future</a>\nby Urs Schreibe
  r as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#US
 END:VEVENT
@@ -43,8 +40,7 @@ DTSTART;VALUE=DATE-TIME:20220521T160000Z
 DTEND;VALUE=DATE-TIME:20220521T162000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/4
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/4/">Fungrim: a semantic library of mathematical functions</a>\nby Fr
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#FJ">Fungrim: a semantic library of mathematical functions</a>\nby Fr
  edrik Johansson as part of Big Data in Pure Mathematics 2022\n\nAbstract: 
  TBA\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#FJ
@@ -55,8 +51,7 @@ DTSTART;VALUE=DATE-TIME:20220521T173000Z
 DTEND;VALUE=DATE-TIME:20220521T175000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/5
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/5/">mathlib: a database of mathematical proofs</a>\nby Kevin M. Buzz
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#KB">mathlib: a database of mathematical proofs</a>\nby Kevin M. Buzz
  ard as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#KB
 END:VEVENT
@@ -66,8 +61,7 @@ DTSTART;VALUE=DATE-TIME:20220521T180000Z
 DTEND;VALUE=DATE-TIME:20220521T182000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/6
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/6/">Mathematical results as structured data</a>\nby Alex J. Best as 
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AB">Mathematical results as structured data</a>\nby Alex J. Best as 
  part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AB
 END:VEVENT
@@ -77,8 +71,7 @@ DTSTART;VALUE=DATE-TIME:20220521T190000Z
 DTEND;VALUE=DATE-TIME:20220521T192000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/7
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/7/">Ways to Share Mathematical Computations and Data using CoCalc</a
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#WS">Ways to Share Mathematical Computations and Data using CoCalc</a
  >\nby William Stein as part of Big Data in Pure Mathematics 2022\n\nAbstra
  ct: TBA\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#WS
@@ -89,8 +82,7 @@ DTSTART;VALUE=DATE-TIME:20220522T140000Z
 DTEND;VALUE=DATE-TIME:20220522T142000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/8
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/8/">House of Graphs: a database of interesting graphs</a>\nby Jan Go
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#JG">House of Graphs: a database of interesting graphs</a>\nby Jan Go
  edgebeur as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#JG
 END:VEVENT
@@ -100,8 +92,7 @@ DTSTART;VALUE=DATE-TIME:20220522T143000Z
 DTEND;VALUE=DATE-TIME:20220522T145000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/9
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/9/">Visualizing and manipulating PHOEG data to explore extremal prop
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#HM">Visualizing and manipulating PHOEG data to explore extremal prop
  erties of graphs</a>\nby Hadrien Mélot as part of Big Data in Pure Mathem
  atics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#HM
@@ -112,8 +103,7 @@ DTSTART;VALUE=DATE-TIME:20220522T153000Z
 DTEND;VALUE=DATE-TIME:20220522T155000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/10
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/10/">FindStat</a>\nby Martin Rubey as part of Big Data in Pure Mathe
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#MR">FindStat</a>\nby Martin Rubey as part of Big Data in Pure Mathe
  matics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#MR
 END:VEVENT
@@ -123,8 +113,7 @@ DTSTART;VALUE=DATE-TIME:20220522T160000Z
 DTEND;VALUE=DATE-TIME:20220522T162000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/11
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/11/">polyDB: A database for geometric objects</a>\nby Andreas Paffen
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AP">polyDB: A database for geometric objects</a>\nby Andreas Paffen
  holz as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AP
 END:VEVENT
@@ -134,8 +123,7 @@ DTSTART;VALUE=DATE-TIME:20220522T173000Z
 DTEND;VALUE=DATE-TIME:20220522T175000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/12
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/12/">Diversity and inclusion</a>\nby open discussion as part of Big 
+DESCRIPTION:Title: <a href="https://bdpm.zulipchat.com/#narrow/stream/324487-general/topic/Diversity.20and.20inclusion">Diversity and inclusion</a>\nby open discussion as part of Big 
  Data in Pure Mathematics 2022\n
 LOCATION:https://bdpm.zulipchat.com/#narrow/stream/324487-general/topic/Diversity.20and.20inclusion
 END:VEVENT
@@ -145,8 +133,7 @@ DTSTART;VALUE=DATE-TIME:20220522T180000Z
 DTEND;VALUE=DATE-TIME:20220522T182000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/13
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/13/">The L-functions and modular forms database</a>\nby David Roe as
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#DR">The L-functions and modular forms database</a>\nby David Roe as
   part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#DR
 END:VEVENT
@@ -156,8 +143,7 @@ DTSTART;VALUE=DATE-TIME:20220522T190000Z
 DTEND;VALUE=DATE-TIME:20220522T192000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/14
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/14/">Enumerating mathematical objects via cloud computing</a>\nby An
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AS">Enumerating mathematical objects via cloud computing</a>\nby An
  drew V. Sutherland as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#AS
 END:VEVENT
@@ -167,8 +153,7 @@ DTSTART;VALUE=DATE-TIME:20220522T193000Z
 DTEND;VALUE=DATE-TIME:20220522T195000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/15
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/15/">The Atlas of Lie Groups and Representations</a>\nby Stephen D. 
+DESCRIPTION:Title: <a href="https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SM">The Atlas of Lie Groups and Representations</a>\nby Stephen D. 
  Miller as part of Big Data in Pure Mathematics 2022\n
 LOCATION:https://math-data.github.io/big-data-pure-math-2022/abstracts.html#SM
 END:VEVENT
@@ -178,8 +163,7 @@ DTSTART;VALUE=DATE-TIME:20220521T193000Z
 DTEND;VALUE=DATE-TIME:20220521T200000Z
 DTSTAMP;VALUE=DATE-TIME:20220520T065937Z
 UID:BigDataPureMath22/16
-DESCRIPTION:Title: <a href="https://researchseminars.org/talk/BigDataPureM
- ath22/16/">Open discussion</a>\nby open discussion as part of Big Data in 
+DESCRIPTION:Title: <a href="https://bdpm.zulipchat.com/#narrow/stream/324490-open-discussion">Open discussion</a>\nby open discussion as part of Big Data in 
  Pure Mathematics 2022\n
 LOCATION:https://bdpm.zulipchat.com/#narrow/stream/324490-open-discussion
 END:VEVENT
