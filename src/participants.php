@@ -67,7 +67,7 @@
 <li><a href="https://www.findstat.org">Martin Rubey</a>* (TU Wien)</li>
 <li><a href="https://math.mit.edu/~sschiavo/">Sam Schiavone</a> (MIT)</li>
 <li><a href="http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Urs+Schreiber">Urs Schreiber</a>* (Czech Academy of Sciences)</li>
-<li><a href="kauesena.xyz">Kauê Sena</a> (University of São Paulo)</li>
+<li><a href="http://kauesena.xyz">Kauê Sena</a> (University of São Paulo)</li>
 <li><a href="https://wstein.org/">William Stein</a>*</li>
 <li><a href="https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebraische_Kombinatorik/ChristianStump.html">Christian Stump</a> (Ruhr-Universität Bochum)</li>
 <li>Ergun Suer (University of Oklahoma)</li>
