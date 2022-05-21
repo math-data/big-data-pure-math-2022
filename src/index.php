@@ -16,6 +16,7 @@
     ["Lattices","https://www.math.rwth-aachen.de/~Gabriele.Nebe/LATTICES/"],
     ["Stein-Watkins database","https://wstein.org/papers/stein-watkins/"],
     ["FindStat","https://www.findstat.org/"],
+    ["PHOEG","https://phoeg.umons.ac.be/"],
     ["Magma databases","http://magma.maths.usyd.edu.au/magma/download/db/"],
     ["Knot Atlas","http://katlas.org/"],
     ["Atlas of Finite Group Representations","http://brauer.maths.qmul.ac.uk/Atlas/v3/"],
@@ -82,7 +83,7 @@ The speakers include
 <li><a href="https://fredrikj.net/">Fredrik Johansson</a> (<a href="https://fungrim.org/">Fungrim</a>)</li> 
 <li><a href="https://magma.maths.usyd.edu.au/~kasprzyk/">Alexander M. Kasprzyk</a> (<a href="http://www.grdb.co.uk/">Graded Ring Database</a>)</li>
 <li><a href="https://sites.math.rutgers.edu/~sdmiller/">Stephen D. Miller</a> (<a href="http://www.liegroups.org/">Atlas of Lie Groups and Representations</a>)</li>
-<li><a href="http://informatique.umons.ac.be/staff/Melot.Hadrien/">Hadrien M&eacute;lot</a> (<a href="https://doi.org/10.1007/978-3-030-18500-8_32">PHOEG</a>)</li>
+<li><a href="http://informatique.umons.ac.be/staff/Melot.Hadrien/">Hadrien M&eacute;lot</a> (<a href="https://phoeg.umons.ac.be/">PHOEG</a>)</li>
 <li><a href="https://www2.mathematik.tu-darmstadt.de/~paffenholz/">Andreas Paffenholz</a> (<a href="https://db.polymake.org/">polyDB</a>)</li>
 <li><a href="http://plouffe.fr/Simon%20Plouffe.htm">Simon Plouffe</a> (<a href="http://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html">Inverse Sybolic Calculator</a>)</li>
 <li><a href="https://math.mit.edu/~roed/">David Roe</a> (<a href="https://www.lmfdb.org/">LMFDB</a>)</li>
