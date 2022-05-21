@@ -17,10 +17,11 @@
 <li><a href="https://www.ma.ic.ac.uk/~buzzard/">Kevin Buzzard</a>* (Imperial College London)</li>
 <li>Percy Caceres (Puc Rio de Janeiro)</li>
 <li>Victor Castillo (UC Chile)</li>
+<li>Yuhang Chen (Ohio State University)</li>
 <li>Anas Chentouf (MIT)</li>
 <li><a href="https://math.mit.edu/~shivac/">Shiva Chidambaram</a> (Massachusetts Institute of Technology)</li>
 <li>Mauricio Collares (UFMG)</li>
-<li><a href="https://math.mit.edu/~edgarc/">Edgar Costa</a>* (MIT)</li>
+<li><a href="https://math.mit.edu/~edgarc/">Edgar Costa</a> (MIT)</li>
 <li>John Cremona (Warwick)</li>
 <li>Jeff Crouch (Vanderbilt)</li>
 <li>Antony Della Vecchia (TU Berlin)</li>
