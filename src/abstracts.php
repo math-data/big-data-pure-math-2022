@@ -2,8 +2,6 @@
   $pageTitle = "Big Data Pure Math 2022";
   $thispage = "index.php";
   include "header.php";
-
-  include "talks.php";
 ?>
 
 
